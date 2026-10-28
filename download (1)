@@ -1,0 +1,7 @@
+# Datasets are downloaded from Kaggle and not committed
+data/*.csv
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
