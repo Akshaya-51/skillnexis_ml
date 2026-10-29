@@ -53,10 +53,10 @@ The notebooks calculate the results when I run them. I can copy the printed valu
 
 | Experiment | Metric | Result |
 |---|---|---|
-| K-Means (`k=3`) | Inertia | _Generated when I run the notebook_ |
-| K-Means (`k=3`) | Silhouette score | _Generated when I run the notebook_ |
-| K-Means vs. true species | Adjusted Rand Index | _Generated when I run the notebook_ |
-| PCA with 2 components | Total explained variance | _Generated when I run the notebook_ |
+| K-Means (`k=3`) | Inertia | 139.82|
+| K-Means (`k=3`) | Silhouette score | 0.46 |
+| K-Means vs. true species | Adjusted Rand Index | 0.620 |
+| PCA with 2 components | Total explained variance | 0.9581 (95.81%) |
 
 ## Key Learnings
 
