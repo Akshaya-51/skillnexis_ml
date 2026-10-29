@@ -1,0 +1,15 @@
+Q1: cross_val_score
+  fold accuracies: [0.755 0.792 0.812 0.917 0.833]
+  mean accuracy: 0.822  (std 0.054)
+
+Q2: GridSearchCV for SVM
+  best params: {'svc__C': 1, 'svc__gamma': 'scale', 'svc__kernel': 'linear'}
+  best CV accuracy: 0.834
+  test accuracy of best model: 0.803
+
+Q3: model saved to models/svm_best_model.joblib
+
+Q4: predictions on new data
+  patient 1: heart disease likely
+  patient 2: heart disease likely
+  patient 3: heart disease likely
