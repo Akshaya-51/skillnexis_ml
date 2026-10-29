@@ -30,7 +30,6 @@ To run my notebooks locally, I follow these steps:
 
 3. Open the notebooks from inside the `notebooks/` directory and select **Kernel → Restart & Run All** to execute all cells in sequence.
 4. Check the generated plots in the `images/` directory.
-5. Fill in the Conclusions section at the end of each notebook based on my results.
 
 ## My Approach
 
@@ -41,14 +40,13 @@ To run my notebooks locally, I follow these steps:
 
 ## Results
 
-After running my notebooks, I will record the evaluation results in the table below.
 
 | Model | Dataset | Metric | Score |
 |---|---|---|---|
-| Linear Regression | House Prices | R² | _To be filled in_ |
-| Logistic Regression | Titanic | Accuracy | _To be filled in_ |
-| Decision Tree (Tuned) | Titanic | Accuracy | _To be filled in_ |
-| KNN (k=5) | Titanic | Accuracy | _To be filled in_ |
+| Linear Regression | House Prices | R² | 0.866316|
+| Logistic Regression | Titanic | Accuracy | 0.8045|
+| Decision Tree (Tuned) | Titanic | Accuracy | 0.7877 |
+| KNN (k=5) | Titanic | Accuracy | 0.8212 |
 
 ## Key Learnings
 
