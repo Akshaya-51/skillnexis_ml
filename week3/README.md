@@ -49,7 +49,7 @@ The notebooks use the Iris dataset included with scikit-learn, so I do not need 
 
 ## Results
 
-The notebooks calculate the results when I run them. I can copy the printed values into this table after execution.
+
 
 | Experiment | Metric | Result |
 |---|---|---|
